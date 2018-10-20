@@ -1,0 +1,2 @@
+#program 34 always true
+out = (in1 or not in1)
